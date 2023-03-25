@@ -204,3 +204,4 @@ Create a man page for your function.
 
 - GitHub repository: `printf`
 - File: `man_3_printf`
+test
